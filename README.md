@@ -1,6 +1,6 @@
 # Ski Resort Analytics - Dashboard Financiero y Operativo 🎿📊
 
-![Uploading image.png…](
+![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/Ski_Resort_Analytics-Dashboard_Financiero_y_Operativo/blob/main/Parque.png?raw=true)
 
 ## Descripción del Proyecto
 Este proyecto de portafolio consiste en el desarrollo de un panel de control integral en Microsoft Excel para la empresa ficticia de turismo de invierno "SKI Valle Silbador". El objetivo del análisis fue limpiar un conjunto de datos transaccionales con inconsistencias y estructurarlo para proyectar promociones, comisiones cruzadas y calcular la rentabilidad real de los pases de temporada.
