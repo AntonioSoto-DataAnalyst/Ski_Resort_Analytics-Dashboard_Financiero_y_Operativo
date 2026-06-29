@@ -5,7 +5,8 @@
 ## Descripción del Proyecto
 Este proyecto de portafolio consiste en el desarrollo de un panel de control integral en Microsoft Excel para la empresa ficticia de turismo de invierno "SKI Valle Silbador". El objetivo del análisis fue limpiar un conjunto de datos transaccionales con inconsistencias y estructurarlo para proyectar promociones, comisiones cruzadas y calcular la rentabilidad real de los pases de temporada.
 ## Limpieza y Modelado de Datos
-El proyecto requirió un fuerte componente de normalización de datos antes del análisis:
+
+## El proyecto requirió un fuerte componente de normalización de datos antes del análisis:
 - Estandarización: Corrección de formatos de fecha erróneos (registros de 2017 ajustados a 2018) y traducción de los días de la semana de inglés a español.
 - Corrección de Errores: Limpieza de espacios excedentes y faltas de ortografía en la base de uso de lifts diarios.
 
